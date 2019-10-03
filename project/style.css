@@ -1,0 +1,12 @@
+#testBox {
+	width: 450px;
+	height: 250px;
+	background-color: green;
+	margin-top: 10px;
+	position: relative;
+	float: left;
+}
+
+button {
+	margin: 0 5px 10px 0;
+}
